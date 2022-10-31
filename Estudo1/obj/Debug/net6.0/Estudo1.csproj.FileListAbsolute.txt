@@ -1,0 +1,15 @@
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\bin\Debug\net6.0\Estudo1.exe
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\bin\Debug\net6.0\Estudo1.deps.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\bin\Debug\net6.0\Estudo1.runtimeconfig.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\bin\Debug\net6.0\Estudo1.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\bin\Debug\net6.0\Estudo1.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.csproj.AssemblyReference.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.AssemblyInfoInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.AssemblyInfo.cs
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.csproj.CoreCompileInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\refint\Estudo1.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\Estudo1.genruntimeconfig.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo1\obj\Debug\net6.0\ref\Estudo1.dll

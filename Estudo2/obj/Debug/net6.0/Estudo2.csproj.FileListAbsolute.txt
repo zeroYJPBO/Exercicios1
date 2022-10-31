@@ -1,0 +1,15 @@
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\bin\Debug\net6.0\Estudo2.exe
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\bin\Debug\net6.0\Estudo2.deps.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\bin\Debug\net6.0\Estudo2.runtimeconfig.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\bin\Debug\net6.0\Estudo2.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\bin\Debug\net6.0\Estudo2.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.csproj.AssemblyReference.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.AssemblyInfoInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.AssemblyInfo.cs
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.csproj.CoreCompileInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\refint\Estudo2.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\Estudo2.genruntimeconfig.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Estudo2\obj\Debug\net6.0\ref\Estudo2.dll
