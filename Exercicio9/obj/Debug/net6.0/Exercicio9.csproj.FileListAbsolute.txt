@@ -1,0 +1,15 @@
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\bin\Debug\net6.0\Exercicio9.exe
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\bin\Debug\net6.0\Exercicio9.deps.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\bin\Debug\net6.0\Exercicio9.runtimeconfig.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\bin\Debug\net6.0\Exercicio9.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\bin\Debug\net6.0\Exercicio9.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.csproj.AssemblyReference.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.AssemblyInfoInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.AssemblyInfo.cs
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.csproj.CoreCompileInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\refint\Exercicio9.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\Exercicio9.genruntimeconfig.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio9\obj\Debug\net6.0\ref\Exercicio9.dll
