@@ -1,0 +1,15 @@
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\bin\Debug\net6.0\Exercicio17.exe
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\bin\Debug\net6.0\Exercicio17.deps.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\bin\Debug\net6.0\Exercicio17.runtimeconfig.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\bin\Debug\net6.0\Exercicio17.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\bin\Debug\net6.0\Exercicio17.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.csproj.AssemblyReference.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.AssemblyInfoInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.AssemblyInfo.cs
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.csproj.CoreCompileInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\refint\Exercicio17.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\Exercicio17.genruntimeconfig.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio17\obj\Debug\net6.0\ref\Exercicio17.dll
