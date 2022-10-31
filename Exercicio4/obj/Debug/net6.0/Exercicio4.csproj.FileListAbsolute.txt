@@ -1,0 +1,15 @@
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\bin\Debug\net6.0\Exercicio4.exe
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\bin\Debug\net6.0\Exercicio4.deps.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\bin\Debug\net6.0\Exercicio4.runtimeconfig.json
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\bin\Debug\net6.0\Exercicio4.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\bin\Debug\net6.0\Exercicio4.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.AssemblyReference.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfoInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfo.cs
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.CoreCompileInputs.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\refint\Exercicio4.dll
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.pdb
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\Exercicio4.genruntimeconfig.cache
+D:\Documentos\Udemy\C# primeiros passos - Lógica de Programação e Algoritmos\Exercicio4\obj\Debug\net6.0\ref\Exercicio4.dll
